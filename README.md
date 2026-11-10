@@ -14,7 +14,7 @@ Import the numpy module to use the built-in functions for calculation
 
 Step 2. 
 
-Get the Input from the user 
+Get the Input from the user for the following program
 
 Step 3.
 
