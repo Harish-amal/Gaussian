@@ -18,6 +18,8 @@ Get the Input from the user
 
 Step 3.
 
+Use Forward Elimination method and then use Back Substitution method to find Answer
+
 Step 4. 
 
 print and End the program
